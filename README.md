@@ -1,6 +1,6 @@
 # Esp32-Puerto-Serial-No-Funciona en setup
 
-### Este codigo no se muestra la impresion del puerto serial en setup()
+### Este codigo no se muestra la impresion del puerto serial en setup
 ```c++
 void setup() 
 {
