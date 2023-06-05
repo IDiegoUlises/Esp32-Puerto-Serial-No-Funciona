@@ -1,4 +1,4 @@
-# Esp32-Puerto-Serial-No-Funciona
+# Esp32-Puerto-Serial-No-Funciona en setup
 
 ### Este codigo no se muestra al abrir el puerto serial
 ```c++
