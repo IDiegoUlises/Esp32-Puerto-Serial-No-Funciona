@@ -1,4 +1,4 @@
-# Esp32-Puerto-Serial-No-Funciona en setup
+# Esp32 Puerto Serial-No Funciona en Setup
 
 ### Este proceso no muestra la depuracion del puerto serial
 ```c++
