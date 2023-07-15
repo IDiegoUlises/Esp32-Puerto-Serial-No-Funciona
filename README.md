@@ -15,16 +15,20 @@ void loop()
 
 ### Para ver el puerto serial agregar un retardo
 ```c++
-void setup() 
+void setup()
 {
-Serial.begin(115200);
-delay(5000);
-Serial.println("Hola Mundo");
+  //Inicia el puerto serial
+  Serial.begin(115200);
+
+  //Retardo de cinco segundos
+  delay(5000);
+
+  //Imprime el mensaje de depuracion
+  Serial.println("Hola Mundo");
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
-
+void loop()
+{
 }
 ```
 
