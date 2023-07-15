@@ -13,7 +13,7 @@ void loop()
 }
 ```
 
-### PARA VER EL PUERTO SERIAL AGREGAR UN RETARDO
+### Para ver el puerto serial agregar un retardo
 ```c++
 void setup() 
 {
