@@ -32,4 +32,4 @@ void loop()
 }
 ```
 
-Esto pasa simplemente porque el esp32 escribe muy rapido en el puerto serial al momento de abrir el puerto serial no se visualiza nada pero al agregar el retardo de cinco segundos da tiempo suficiente para abrir el puerto serial
+* Esto sucede porque el Esp32 realiza la ejecucion del comando en un tiempo veloz por lo tanto el puerto serial al momento de abrir no se visualiza entonces al agregar un retardo de cinco segundos es el tiempo suficiente para abrir el depurador
