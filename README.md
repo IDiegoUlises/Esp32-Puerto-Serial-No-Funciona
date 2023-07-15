@@ -1,6 +1,6 @@
 # Esp32-Puerto-Serial-No-Funciona en setup
 
-### Este codigo no se muestra la impresion del puerto serial en void setup()
+### Este proceso no muestra la depuracion del puerto serial
 ```c++
 void setup() 
 {
@@ -8,8 +8,8 @@ Serial.begin(115200);
 Serial.println("Hola Mundo");
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
 
 }
 ```
