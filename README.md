@@ -2,15 +2,14 @@
 
 ### Este proceso no muestra la depuracion del puerto serial
 ```c++
-void setup() 
+void setup()
 {
-Serial.begin(115200);
-Serial.println("Hola Mundo");
+  Serial.begin(115200);
+  Serial.println("Hola Mundo");
 }
 
 void loop()
 {
-
 }
 ```
 
